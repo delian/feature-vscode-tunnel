@@ -14,12 +14,5 @@
       "settings": {}
     }
   },
-  "containerEnv": {},
-  "capAdd": [
-    "SYS_PTRACE"
-  ],
-  "securityOpt": [
-    "seccomp=unconfined"
-  ],
-  "installsAfter": []
+  "containerEnv": {}
 }
