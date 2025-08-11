@@ -1,18 +1,17 @@
 {
-  "id": "vscode-tunnel",
+  "id": "feature-vscode-tunnel",
   "version": "1.0.0",
-  "name": "vscode-tunnel",
+  "name": "feature-vscode-tunnel",
   "documentationURL": "https://github.com/delian/feature-vscode-tunnel",
   "description": "Install vscode-tunnel and enable remote access to your dev container.",
   "options": {},
   "init": true,
   "customizations": {
     "vscode": {
-      "extensions": [
-        "ms-vscode-remote.remote-containers"
-      ],
+      "extensions": ["ms-vscode-remote.remote-containers"],
       "settings": {}
     }
   },
   "containerEnv": {}
 }
+
