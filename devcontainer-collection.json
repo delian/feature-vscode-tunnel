@@ -1,0 +1,11 @@
+{
+    "namespace": "delian",
+    "ociReference": "ghcr.io/delian/features",
+    "features": [
+        {
+            "id": "feature-vscode-tunnel",
+            "version": "1.0.0",
+            "path": "."
+        }
+    ]
+}

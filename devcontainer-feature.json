@@ -8,10 +8,11 @@
   "init": true,
   "customizations": {
     "vscode": {
-      "extensions": ["ms-vscode-remote.remote-containers"],
+      "extensions": [
+        "ms-vscode-remote.remote-containers"
+      ],
       "settings": {}
     }
   },
   "containerEnv": {}
 }
-
